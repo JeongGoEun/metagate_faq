@@ -16,7 +16,7 @@
         "content": "Add balance"
     },
     {
-        "title": "How much transaction fee is required for each action?",
+        "title": "How much transaction fee is required for each \n action?",
         "content": "Transaction Fee"
     }
-];
+]
