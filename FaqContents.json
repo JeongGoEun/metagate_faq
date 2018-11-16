@@ -1,7 +1,7 @@
 [
     {
         "title": "What is Meta Gate?",
-        "content": "- Meta Gate is an admin tool to search / register / manage claim topics & achievements. Meta Gate is open to any participants of Metadium platform, but functions to register new claim topics & achievements are currently limited to registered AAs."
+        "content": "- Meta Gate is an admin tool to search / register / manage claim topics & achievements.\n Meta Gate is open to any participants of Metadium platform, but functions to register new claim topics & achievements are currently limited to registered AAs."
     },
     {
         "title": "How do I add Topic?",
@@ -16,7 +16,7 @@
         "content": "Add balance"
     },
     {
-        "title": "How much transaction fee is required for each \n action?",
+        "title": "How much transaction fee is required for each action?",
         "content": "Transaction Fee"
     }
 ]
