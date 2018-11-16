@@ -1,26 +1,10 @@
 [
     {
-        "title": "How do I register as AA/SP?",
-        "content": "- At this stage, AA/SP can only be registered by Metadium. Please contact Metadium (contact@metadium.com) to be registered."
+        "title": "What is Meta Gate?",
+        "content": "- Meta Gate is an admin tool to search / register / manage claim topics & achievements. Meta Gate is open to any participants of Metadium platform, but functions to register new claim topics & achievements are currently limited to registered AAs."
     },
     {
-        "title": "How do I add Topic?",
-        "content": "- Add Topic."
-    },
-    {
-        "title": "How do I add Achievement?",
-        "content": "Add achievement."
-    },
-    {
-        "title": "How do I add balance to an Achievement?",
-        "content": "Add balance"
-    },
-    {
-        "title": "How much transaction fee is required for each action?",
-        "content": "Transaction Fee"
-    },
-    {
-        "title": "How much transaction fee is required for each action????",
-        "content": "Transaction Fee"
+        "title": "What is Claim / Achievement??",
+        "content": "- - Claim is a proof of identity attributes that improve reliability of identity data online. <br> AAs can verify the authenticity of user data on its own way, and issue claim for it upon user's request.
     }
-]
+    ]
