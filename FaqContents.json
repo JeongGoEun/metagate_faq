@@ -9,8 +9,7 @@
     {
         "title": "What is Claim / Achievement?",
         "content": [
-            "- Claim is a proof of identity attributes that improve reliability of identity data online. AAs can verify the authenticity of user data on its own way, and issue claim for it upon user's request.\n",
-            "- Achievement is a reward mechanism triggered by claims designed to incentivize users to onboard onto and fully experience the service. It helps to acquire valuable claims on platform."
+            “Claim is a proof of identity attributes that improve reliability of identity data online. AAs can verify the authenticity of user data on its own way, and issue claim for it upon user's request.\n- Achievement is a reward mechanism triggered by claims designed to incentivize users to onboard onto and fully experience the service. It helps to acquire valuable claims on platform.”
             ]
     },
     {
