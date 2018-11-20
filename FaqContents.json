@@ -1,34 +1,29 @@
 [
     {
         "title": "What is Meta Gate?",
-        "content": [
-            "- Meta Gate is an admin tool to search / register / manage claim topics & achievements.",
-            "- Meta Gate is open to any participants of Metadium platform, but functions to register new claim topics & achievements are currently limited to registered AAs."
-            ]
+        "content":
+            "<p>- Meta Gate is an admin tool to search / register / manage claim topics & achievements.</p>
+             <p>- Meta Gate is open to any participants of Metadium platform, but functions to register new claim topics & achievements are currently limited to registered AAs.</p>"
     },
     {
         "title": "What is Claim / Achievement?",
-        "content": [
-            "- Claim is a proof of identity attributes that improve reliability of identity data online. AAs can verify the authenticity of user data on its own way, and issue claim for it upon user's request.",
-            "- Achievement is a reward mechanism triggered by claims designed to incentivize users to onboard onto and fully experience the service. It helps to acquire valuable claims on platform."
-            ]
+        "content":
+            "<p>- Claim is a proof of identity attributes that improve reliability of identity data online. AAs can verify the authenticity of user data on its own way, and issue claim for it upon user's request.</p>
+             <p>- Achievement is a reward mechanism triggered by claims designed to incentivize users to onboard onto and fully experience the service. It helps to acquire valuable claims on platform.</p>"
     },
     {
         "title": "How do I add Achievement?",
-        "content": [
+        "content": 
             "Add achievement."
-            ]
     },
     {
         "title": "How do I add balance to an Achievement?",
-        "content": [
+        "content": 
             "Add balance"
-            ]
     },
     {
         "title": "How much transaction fee is required for each action?",
-        "content": [
+        "content": 
             "Transaction Fee"
-            ]
     }
 ]
