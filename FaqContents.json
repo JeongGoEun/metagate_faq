@@ -2,11 +2,11 @@
     {
         "title": "What is Meta Gate?",
         "content": 
-        "- Meta Gate is an admin tool to search / register / manage claim topics & achievements.</br>- Meta Gate is open to any participants of Metadium platform, but functions to register new claim topics & achievements are currently limited to registered AAs."
+        "  - Meta Gate is an admin tool to search / register / manage claim topics & achievements. Meta Gate is open to any participants of Metadium platform, but functions to register new claim topics & achievements are currently limited to registered AAs."
     },
     {
         "title": "What is Claim / Achievement?",
-        "content": "<p>- Claim is a proof of identity attributes that improve reliability of identity data online. AAs can verify the authenticity of user data on its own way, and issue claim for it upon user's request.</p><p>- Achievement is a reward mechanism triggered by claims designed to incentivize users to onboard onto and fully experience the service. It helps to acquire valuable claims on platform.</p>"
+        "content": "<p>  - Claim is a proof of identity attributes that improve reliability of identity data online.<br/>    AAs can verify the authenticity of user data on its own way, and issue claim for it upon user's request.<br/>    > ex)Crypto-exchange can issue claims of their user including,<br/>         + User's Phone No. has been verified<br/>         + User's E-mail has been verified<br/>         + User is level 2 in certain exchange</p><p>  - Achievement is a reward mechanism triggered by claims designed to incentivize users to onboard onto and fully experience the service.<br/>    It helps to acquire valuable claims on platform.<br/>    > ex) Game publisher can set up achievement for user to accomplish 100 hours of playtime and give 50 META as a reward.</p>"
     },
     {
         "title": "How do I add Achievement?",
